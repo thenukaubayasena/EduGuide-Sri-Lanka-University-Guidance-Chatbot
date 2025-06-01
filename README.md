@@ -5,7 +5,7 @@ This repository contains the intelligent university recommendation system that p
 #### 📌 Features:
 - 🔍 **Semantic Search** using **Sentence-BERT** for understanding free-text skill inputs  
 - 🎯 Matches students with relevant **career paths**, **private degrees**, and **government universities**
-- 🧠 Utilizes **Z-score filtering**, district, and stream to enhance government recommendations
+- 🧠 Utilizes **Z-score filtering**, district, and stream to enhance government recommendations 
 - 🔁 Includes fallback logic for unmatched inputs and low-similarity queries
 - 🗃️ Preloaded with:
   - **Career-to-skill dataset**
